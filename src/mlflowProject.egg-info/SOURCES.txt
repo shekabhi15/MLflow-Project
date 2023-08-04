@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+src/mlflowProject/__init__.py
+src/mlflowProject.egg-info/PKG-INFO
+src/mlflowProject.egg-info/SOURCES.txt
+src/mlflowProject.egg-info/dependency_links.txt
+src/mlflowProject.egg-info/top_level.txt
+src/mlflowProject/components/__init__.py
+src/mlflowProject/config/__init__.py
+src/mlflowProject/entity/__init__.py
+src/mlflowProject/utils/__init__.py
